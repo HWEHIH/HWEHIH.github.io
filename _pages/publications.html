@@ -1,36 +1,32 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Academic Outputs"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>Selected scholarly work and academic outputs. Bibliographic entries below are provided by the author; DOI and publisher links will be added after confirmation.</p>
 
-{% include base_path %}
+<h2>Journal Articles</h2>
+<ol>
+  <li><strong>Sai Li</strong>, Yanfeng Peng, Yong Guo, et al. “Rolling Bearing Fault Diagnosis Under Data Imbalance and Variable Speed Based on Adaptive Clustering Weighted Oversampling.” <em>Expert Systems with Applications</em>, 2024.</li>
+  <li><strong>Sai Li</strong>, Yanfeng Peng, Guangfu Bin, et al. “Research on Bearing Fault Diagnosis Method Based on CJBM with Semi-Supervised and Imbalanced Data.” <em>Nonlinear Dynamics</em>, 2024.</li>
+  <li><strong>Sai Li</strong>, Y. Peng, and G. Bin. “Prediction of Wind Turbine Blades Icing Based on CJBM With Imbalanced Data.” <em>IEEE Sensors Journal</em>, 2023.</li>
+</ol>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference Papers</h2>
+<ol>
+  <li><strong>Sai Li</strong>, Xiao Wang, Guanghan Bai, and Junyong Tao. “Physics-Informed Hybrid Temporal Network for Motor Health Estimation in Multi-copter Unmanned Aerial Vehicles.” In <em>2026 Global Reliability and Prognostics and Health Management (PHM-Ji'nan)</em>, 2026. <strong>Best Paper Award</strong> (as provided by the author).</li>
+</ol>
 
+<h2>Patents</h2>
+<ol>
+  <li>彭延峰, <strong>李赛</strong>, 郭勇, 等. “双电机驱动棘轮棘爪减速机不同步故障诊断系统及方法.” Chinese invention patent application no. <strong>202210562876.X</strong>.</li>
+</ol>
 
+<h2>Other Academic Outputs</h2>
+<ol>
+  <li><strong>李赛</strong>, 彭延峰, 郭勇. “基于5G边缘计算的天车轮毂轴承故障云诊断.” Conference proceedings, August 2022.</li>
+</ol>
 
+<p><em>Publication metrics, journal rankings, citation labels, and indexing status are omitted pending time-specific verification. Links to DOIs and authorized full texts can be added later.</em></p>
