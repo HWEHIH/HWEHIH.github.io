@@ -7,34 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+# Sai Li
 
-Welcome to my academic homepage. My research focuses on **unmanned aerial systems**, with particular interests in physics-informed health estimation, resilient swarm control, and distributed multi-agent intelligence.
+**College of Intelligence Science and Technology**, National University of Defense Technology  
+**National Key Laboratory of Equipment State Sensing and Smart Support**, National University of Defense Technology  
+Changsha 410073, China  
+Email: [lisai@nudt.edu.cn](mailto:lisai@nudt.edu.cn)
 
-This website is being developed as a space to present research topics, open-source projects, and verified publications. My academic name, institution, and professional contact details will be added after confirmation.
+## About Me
+
+I am a researcher at the National University of Defense Technology, working on intelligent condition monitoring, fault diagnosis, and reliable autonomous unmanned systems. My research interests span data-driven and physics-informed machinery health assessment, uncertainty-aware motor effectiveness estimation, and resilient coordination of unmanned aerial vehicle swarms.
+
+My work explores the connections between **component health, remaining maneuverability, distributed coordination, and system-level resilience**.
 
 ## Research Interests {#research}
 
-- **UAV Health Monitoring:** Motor effectiveness estimation, fault diagnosis, uncertainty-aware inference, and physics-informed learning from closed-loop flight data.
-- **Resilient Swarm Control:** Health-aware coordination, remaining maneuverability, fault tolerance, and group-level functional resilience.
-- **Multi-Agent Intelligence:** Distributed coordination, local interaction models, and reinforcement learning for reliable autonomous navigation.
+- **Prognostics and Health Management (PHM):** Machinery fault diagnosis, condition monitoring, imbalanced learning, and operation under variable working conditions.
+- **UAV Motor Health Estimation:** Physics-informed temporal modeling, identifiability-aware inference, and uncertainty quantification for multirotor motor effectiveness.
+- **Resilient UAV Swarms:** Fault-tolerant distributed coordination, reliable navigation, and health-aware collective behavior.
+- **Multi-Agent Learning:** Reinforcement learning and local-interaction models for decentralized cooperative control.
 
 ## Selected Research Directions {#projects}
 
-### Identifiability-Aware Motor Health Estimation
+### Physics-Informed Motor Health Estimation
 
-Probabilistic estimation of multirotor motor effectiveness from flight telemetry, with attention to weak observability, uncertainty calibration, and coupled motor ambiguity.
+Estimation of individual motor effectiveness from multirotor flight telemetry, integrating physical modeling and temporal learning to address limited excitation and ambiguity between motor health states.
 
-### Reliable Distributed Swarm Coordination
+### Resilient Distributed UAV Swarm Coordination
 
-Distributed control and multi-agent learning to balance collision mitigation, group cohesion, and goal-directed motion under local interaction constraints.
+Distributed swarm coordination under local sensing, addressing collision avoidance, group cohesion, and goal-directed navigation through physically grounded interaction and multi-agent learning.
 
-## Publications {#publications}
+### Intelligent Machinery Fault Diagnosis
 
-A verified publication list will be added here, including authors, venue, publication year, DOI, and available paper or code links. The original template's example entries are not presented as personal publications.
+Data-driven bearing health assessment under class imbalance, limited labels, and variable operating speed, including applications to rotating machinery and wind turbine systems.
+
+## Selected Publications {#publications}
+
+**Conference Paper and Award**
+
+- **Sai Li**, Xiao Wang, Guanghan Bai, Junyong Tao. "Physics-Informed Hybrid Temporal Network for Motor Health Estimation in Multi-copter Unmanned Aerial Vehicles." *2026 Global Reliability and Prognostics and Health Management (PHM-Ji'nan)*, 2026. **Best Paper Award.**
+
+**Journal Articles**
+
+- **Sai Li**, Yanfeng Peng, Yong Guo, et al. "Rolling Bearing Fault Diagnosis Under Data Imbalance and Variable Speed Based on Adaptive Clustering Weighted Oversampling." *Expert Systems with Applications*, 2024.
+- **Sai Li**, Yanfeng Peng, Guangfu Bin, et al. "Research on Bearing Fault Diagnosis Method Based on CJBM with Semi-Supervised and Imbalanced Data." *Nonlinear Dynamics*, 2024.
+- **Sai Li**, Y. Peng, G. Bin. "Prediction of Wind Turbine Blades Icing Based on CJBM With Imbalanced Data." *IEEE Sensors Journal*, 2023.
+
+[View all publications and other academic outputs](/publications/)
 
 ## Contact {#contact}
 
-[GitHub profile](https://github.com/HWEHIH)
+College of Intelligence Science and Technology  
+National University of Defense Technology  
+Changsha 410073, China
 
-*Academic affiliation and institutional email: to be added.*
+- **Email:** [lisai@nudt.edu.cn](mailto:lisai@nudt.edu.cn)
+- **GitHub:** [HWEHIH](https://github.com/HWEHIH)
