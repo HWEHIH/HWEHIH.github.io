@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "HWEHIH | Academic Homepage"
+title                    : "Sai Li | Academic Homepage"
 title_separator          : "-"
-name                     : &name "HWEHIH"
+name                     : &name "Sai Li"
 description              : &description "UAV health monitoring, resilient swarm control and multi-agent intelligence"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hwehih.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,13 @@ repository               : "HWEHIH/HWEHIH.github.io"
 author:
   # Biographic information
   avatar           : # add an authorized professional photo to images/ and set its filename
-  name             : "HWEHIH"
+  name             : "Sai Li"
   pronouns         : # example: "she/her"  
   bio              : "UAV health monitoring · Resilient swarm control · Multi-agent intelligence"
-  location         :
-  employer         :
+  location         : "Changsha, China"
+  employer         : "National University of Defense Technology"
   uri              : # URL
-  email            : 
+  email            : "lisai@nudt.edu.cn" 
 
   # Academic websites
   academia         : # URL
