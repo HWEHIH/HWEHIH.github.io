@@ -49,7 +49,7 @@ Data-driven bearing health assessment under class imbalance, limited labels, and
 
 **Journal Articles**
 
-- **Sai Li**, Yanfeng Peng, Yong Guo, et al. "Rolling Bearing Fault Diagnosis Under Data Imbalance and Variable Speed Based on Adaptive Clustering Weighted Oversampling." *Expert Systems with Applications*, 2024.
+- **Sai Li**, Yanfeng Peng, Yong Guo, et al. "Rolling Bearing Fault Diagnosis Under Data Imbalance and Variable Speed Based on Adaptive Clustering Weighted Oversampling." *Reliability Engineering & System Safety*, 2024.
 - **Sai Li**, Yanfeng Peng, Guangfu Bin, et al. "Research on Bearing Fault Diagnosis Method Based on CJBM with Semi-Supervised and Imbalanced Data." *Nonlinear Dynamics*, 2024.
 - **Sai Li**, Y. Peng, G. Bin. "Prediction of Wind Turbine Blades Icing Based on CJBM With Imbalanced Data." *IEEE Sensors Journal*, 2023.
 
